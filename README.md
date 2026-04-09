@@ -6,7 +6,6 @@ Natural Language Processing (NLP)
 NumPy
 Pandas
 Scikit-learn / TensorFlow (ML libraries)
-
 Features
 Review text preprocessing and cleaning
 Detection of spam and fake reviews
@@ -14,7 +13,6 @@ Sentiment analysis of reviews
 Feature extraction using NLP techniques (TF-IDF, word embeddings)
 Classification of reviews (Genuine / Fake)
 Model training and evaluation
-
 How to Run
 Install dependencies
 Run the Python file
